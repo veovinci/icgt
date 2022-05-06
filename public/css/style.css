@@ -1,0 +1,15 @@
+html, body, main {
+    background-color: #fff !important;
+}
+
+.bg-0 {
+    background-color: #000000;
+}
+
+.hex-f {
+    color: #ffffff;
+}
+
+.bd-f9 {
+    border: 1px solid #f9f9f9;
+}

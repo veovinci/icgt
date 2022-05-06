@@ -1,0 +1,14 @@
+img {
+  width: 100%;
+}
+
+[data-js="glitch-image"] {
+  position: relative;
+  width: 100%;
+}
+[data-js="glitch-image"] canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
